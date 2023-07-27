@@ -2,7 +2,7 @@
 1st task of Internet of Things Department - Summer training program at Smart Methods
 
 
-![image](https://github.com/H16Bw/Internet-of-Things-Department-Task-1/assets/139852537/6982b844-5557-4d8c-9a37-d75b06d16256)
+![لقطة شاشة 2023-07-27 194149](https://github.com/H16Bw/Internet-of-Things-Department-Task-1/assets/139852537/025b9dca-a8d0-48a4-9dfe-31072a936949)
 
 This code is an Arduino program to remotely control four LED lights using Wi-Fi connection. The program checks for Wi-Fi connection and then sends HTTP GET requests to four different URLs on the internet.
 
